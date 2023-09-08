@@ -1,6 +1,8 @@
 # Covid-Data-Analysis-And-Visualisation
 Real time covid data analysis using data from https://ourworldindata.org/covid-deaths. Data exploration done in SQL and visualisation in Tableau (can be found here:- https://prod-apsoutheast-a.online.tableau.com/t/azizmehedi/views/covidAnalysisTill23rdAugust-workbook/Dashboard1).
 
+![covidDashboard](https://github.com/azpz30/Covid-Data-Analysis/assets/76789643/6b48a464-da78-4403-9abe-fcc4ba339394)
+
 In this data analysis project, I meticulously analyzed the COVID-19 dataset from Our World in Data, which contains comprehensive information on deaths, infections, vaccinations, and relevant details across various countries and continents. The dataset was collected by a collaborative team including Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, and others, ensuring credibility and accuracy.
 
 To enhance data manageability and efficiency, I divided the initial dataset into two separate Excel files, "covid-deaths" and "covid-vaccination." Employing Microsoft SQL Server Management Studio, I harnessed SQL queries to delve into the data and draw insightful conclusions. The project encapsulates several critical aspects of data analysis:
