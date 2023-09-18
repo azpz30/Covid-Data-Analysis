@@ -1,5 +1,5 @@
 # Covid-Data-Analysis-And-Visualisation
-Real time covid data analysis using data from https://ourworldindata.org/covid-deaths. Data exploration done in SQL and visualisation in Tableau (can be found here:- https://prod-apsoutheast-a.online.tableau.com/t/azizmehedi/views/covidAnalysisTill23rdAugust-workbook/Dashboard1).
+Real world covid data analysis using data from https://ourworldindata.org/covid-deaths. Data exploration done in SQL and visualisation in Tableau (can be found here:- https://prod-apsoutheast-a.online.tableau.com/t/azizmehedi/views/covidAnalysisTill23rdAugust-workbook/Dashboard1).
 
 ![covidDashboard](https://github.com/azpz30/Covid-Data-Analysis/assets/76789643/6b48a464-da78-4403-9abe-fcc4ba339394)
 
@@ -9,7 +9,7 @@ To enhance data manageability and efficiency, I divided the initial dataset into
 
 1. **Data Manipulation:** I imported the Excel files into SQL Server, using them to build structured tables. Employing Common Table Expressions (CTEs) and temporary tables, I optimized data retrieval for further analysis.
 
-2. **Exploratory Analysis:** I conducted comprehensive analysis by utilizing SQL functions such as SUM, MAX, and aggregations. Key analyses included total deaths vs. total infections on a country-wise basis, infection rates across different countries, death counts by continent, daily death counts for each country, and population vs. total vaccinations.
+2. **Exploratory Analysis:** I conducted a comprehensive analysis by utilizing SQL functions such as SUM, MAX, and aggregations. Key analyses included total deaths vs. total infections on a country-wise basis, infection rates across different countries, death counts by continent, daily death counts for each country, and population vs. total vaccinations.
 
 3. **Visualization:** To facilitate intuitive comprehension of insights, I harnessed Tableau to create interactive and visually appealing dashboards. The provided Tableau dashboard serves as a culmination of my analysis, enabling users to dynamically explore the data trends, correlations, and patterns.
 
